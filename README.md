@@ -1,0 +1,1 @@
+# azure pre module configuration 
